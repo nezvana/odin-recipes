@@ -1,1 +1,2 @@
 # odin-recipes
+Das ist meine erste Seite bei The Odin Project. Ich habe große Mühen Git und GitHub zu verstehen. Zumindest mache ich mir erstmal keine Sorgen um HTML, weil ich es können müsste, bzw. bis jetzt habe ich HTML und CSS gut verstanden. Schwieriger wird es, wenn es technisch wird. Ich hoffe, ich kann es durchziehen.
